@@ -1,0 +1,1 @@
+It's my experiment project. The project final result was writing on python with framework kivy, a calculator and compailed this program to apk. Then run on an android smartphone. So propose of project was completed successfully.
